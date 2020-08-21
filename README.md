@@ -1,2 +1,2 @@
 # RiceDistributedProgramming
-Assignments for the distributed programming course offered by Rive university in collaboration with Coursera.
+Assignments for the distributed programming course offered by Rice university in collaboration with Coursera.
